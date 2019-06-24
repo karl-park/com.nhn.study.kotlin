@@ -15,3 +15,34 @@ Kotlin 스터디를 위한 Repository 입니다. 교재는 함수형 코틀린(�
 11. Working with Streams in Kotlin
 12. Getting Started with Arrow
 13. Arrow Types
+
+# 190604 Mon
+# 1. Project 생성
+
+```shell
+$ gradle init
+Starting a Gradle Daemon (subsequent builds will be faster)
+
+Select type of project to generate:
+  1: basic
+  2: groovy-application
+  3: groovy-library
+  4: java-application
+  5: java-library
+  6: kotlin-application
+  7: kotlin-library
+  8: scala-library
+Enter selection (default: basic) [1..8] 6
+
+Select build script DSL:
+  1: groovy
+  2: kotlin
+Enter selection (default: kotlin) [1..2] 2
+
+Project name (default: com.nhn.study.kotlin): 
+Source package (default: com.nhn.study.kotlin): 
+
+BUILD SUCCESSFUL in 3m 58s
+2 actionable tasks: 2 executed
+```
+
