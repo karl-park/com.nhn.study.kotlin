@@ -17,7 +17,7 @@ Kotlin 스터디를 위한 Repository 입니다. 교재는 함수형 코틀린(�
 13. Arrow Types
 
 # 190604 Mon
-# 1. Project 생성
+# 1. Make Project
 
 ```shell
 $ gradle init
@@ -46,3 +46,14 @@ BUILD SUCCESSFUL in 3m 58s
 2 actionable tasks: 2 executed
 ```
 
+# 2. First Build with gradle run
+
+Hello world XD
+
+```shell
+$ gradle run
+
+
+> Task :run
+Hello world.
+```
